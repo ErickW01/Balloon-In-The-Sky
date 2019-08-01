@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Main Screen.unity
+    path: Assets/Scenes/Main Screen.unity
     guid: 80d615c914119b54cb4d4d0fb97a3d10
   - enabled: 1
-    path: Assets/Sky.unity
+    path: Assets/Scenes/Sky.unity
     guid: 47a0a54fe166f044fa51836e4c9b550c
   - enabled: 1
-    path: Assets/End.unity
+    path: Assets/Scenes/End.unity
     guid: a65f8b1bf2ae2bd43902808c5da934a6
   - enabled: 1
-    path: Assets/Failure.unity
+    path: Assets/Scenes/Failure.unity
     guid: a9c717d1e37295b41bb16fac6cf1df73
   m_configObjects: {}
